@@ -1,0 +1,1 @@
+# gopi-npm-package-rng
