@@ -1,0 +1,28 @@
+{
+  "name": "gopi-random-number-generator",
+  "version": "1.0.0",
+  "description": "generating random numbers",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gopi-saravanan/gopi-npm-package-rng.git"
+  },
+  "keywords": [
+    "random",
+    "number",
+    "generator",
+    "generate",
+    "random",
+    "nuumber"
+  ],
+  "author": "Gopi saravanan R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gopi-saravanan/gopi-npm-package-rng/issues"
+  },
+  "homepage": "https://github.com/Gopi-saravanan/gopi-npm-package-rng#readme"
+}
