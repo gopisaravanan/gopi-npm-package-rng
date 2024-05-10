@@ -1,6 +1,6 @@
 ## Random number generator
 
-##Installation
+## Installation
 
 Run `npm i gopi-random-number-generator`
 
